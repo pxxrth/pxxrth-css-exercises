@@ -1,0 +1,14 @@
+#bro {
+    background-color: black;
+    color: #ffffff;
+}
+
+#sis {
+    background-color: #FFFF00;
+}
+
+#bro,
+#sis {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
