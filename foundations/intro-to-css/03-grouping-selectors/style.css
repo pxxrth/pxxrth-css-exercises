@@ -12,3 +12,34 @@
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
+
+
+
+.btn {
+    background-color: black;
+    color: #ffffff;
+}
+
+.btnn {
+    background-color: #FFFF00;
+}
+
+.btn,
+.btnn {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+#brother {
+    background-color: black;
+    color: #ffffff;
+}
+
+#sister {
+    background-color: #FFFF00;
+}
+
+.real {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
