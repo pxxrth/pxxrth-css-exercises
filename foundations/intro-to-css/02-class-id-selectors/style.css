@@ -1,4 +1,39 @@
-.bro {
+p {
     background-color: #e76262;
     font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+#special {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#bro {
+    font-size: 24px;
+}
+
+#nigga {
+    background-color: rgb(97, 219, 97);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+.odd {
+    background-color: #eb7d7d;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#nigger {
+    color: blue;
+    font-size: 36px;
+}
+
+.adjust-font-size {
+    font-size: 24px;
+}
+
+#him {
+    background-color: green;
+    font-weight: bold;
 }
